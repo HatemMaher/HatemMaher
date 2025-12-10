@@ -9,7 +9,7 @@
 <h3 align="center">💻 Backend Developer | PHP & Laravel</h3>
 
 <p align="center">
-   Building scalable backends, RESTful APIs, and solving real-world problems with both software and hardware skills.
+   Building scalable backends, and solving real-world problems with both software and hardware skills.
 </p>
 
 ---

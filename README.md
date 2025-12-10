@@ -67,10 +67,6 @@
 
 ---
 
-
-
----
-
 ## 🔗 Connect With Me  
 - 📧 Email: **hatem.maher.24@gmail.com**  
 - 💼 LinkedIn: **www.linkedin.com/in/hatem-hussein-418495231**

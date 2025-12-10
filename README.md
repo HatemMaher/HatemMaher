@@ -69,11 +69,6 @@
 
 
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HatemMaher&theme=tokyonight" height="165">
-</p>
-
 ---
 
 ## 🔗 Connect With Me  

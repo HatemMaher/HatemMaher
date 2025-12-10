@@ -2,14 +2,14 @@
 
 <!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+PHP+%2F+Laravel;RESTful+APIs+Engineer;Software+%2B+Hardware+Enthusiast;Always+Learning+%26+Improving">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+PHP+%2F+Laravel;Software+%2B+Hardware+Enthusiast;Always+Learning+%26+Improving">
 </p>
 
 <h1 align="center">👋 Hi, I'm Hatem Hussein</h1>
 <h3 align="center">💻 Backend Developer | PHP & Laravel</h3>
 
 <p align="center">
-   Building scalable backends, and solving real-world problems with both software and hardware skills.
+   Building scalable backends, RESTful APIs and solving real-world problems with both software and hardware skills.
 </p>
 
 ---

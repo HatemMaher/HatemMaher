@@ -1,11 +1,15 @@
 <!-- Dark Mode GitHub Profile -->
 
-<h1 align="center">👋 Hi, I'm Hatem Hussein</h1>
+<!-- Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+PHP+%2F+Laravel;RESTful+APIs+Engineer;Software+%2B+Hardware+Enthusiast;Always+Learning+%26+Improving">
+</p>
 
+<h1 align="center">👋 Hi, I'm Hatem Hussein</h1>
 <h3 align="center">💻 Backend Developer | PHP & Laravel</h3>
 
 <p align="center">
-   Building scalable backends, RESTful APIs, and solving real-world problems with both software and     hardware skills.
+   Building scalable backends, RESTful APIs, and solving real-world problems with both software and hardware skills.
 </p>
 
 ---
@@ -25,31 +29,42 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Badges
 
-### **Backend & Databases**
-- **PHP**, **Laravel**
-- Python, Django
-- MySQL  
-- RESTful APIs  
-- OOP • MVC 
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</p>
+
+### **Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
 ### **Front-End**
-- HTML • CSS • JavaScript  
-- Blade Templates • Alpine.js 
-- Bootstrap • TailwindCSS  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Alpine.js-77C1D2?style=for-the-badge&logo=alpine.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
 
-### **Tools & Workflow**
-- Git & GitHub  
-- Postman  
-- Linux / MacOS  
-- Composer  
-- Docker (basics)  
-
-### **Hardware & Networking**
-- PC building & troubleshooting  
-- Routers, switches, cabling  
-- Network diagnostics  
+### **Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
 ---
 
@@ -60,11 +75,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatemMaher&layout=compact&theme=tokyonight" height="165">
 </p>
 
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HatemMaher&theme=tokyonight" height="165">
+</p>
+
 ---
 
 ## 🔗 Connect With Me  
 - 📧 Email: **hatem.maher.24@gmail.com**  
-- 💼 LinkedIn: *www.linkedin.com/in/hatem-hussein-418495231*  
+- 💼 LinkedIn: **www.linkedin.com/in/hatem-hussein-418495231**
 
 ---
 
